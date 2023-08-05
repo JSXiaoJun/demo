@@ -18,3 +18,9 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 # demo
 
 vuepressDemo
+
+## PWA
+
+演示 pwa
+
+注意需要在本地安装 vuepress
