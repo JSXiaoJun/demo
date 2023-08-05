@@ -24,3 +24,4 @@ vuepressDemo
 演示 pwa
 
 注意需要在本地安装 vuepress
+yarn add -D vuepress
