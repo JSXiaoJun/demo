@@ -1,5 +1,6 @@
 ---
 # navbar: false
+title: 学习1
 ---
 
 # about

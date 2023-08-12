@@ -1,6 +1,7 @@
 ---
 # navbar: false
 # sidebar: auto
+title: about
 ---
 
 # about
