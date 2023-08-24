@@ -1,0 +1,22 @@
+{
+    "theme_color": "skyblue",
+    "background_color": "skyblue",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "JS小军",
+    "short_name": "牛马",
+    "description": "any",
+    "icons": [
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "icons/png"
+        },
+        {
+            "src": "/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "icons/png"
+        }
+    ]
+}
