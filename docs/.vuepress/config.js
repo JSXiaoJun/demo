@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2023-07-14 15:59:37
- * @LastEditTime: 2023-08-12 09:44:26
+ * @LastEditTime: 2023-08-24 11:05:24
  * @LastEditors: BG1659
  * @Description: In User Settings Edit
  * @FilePath: \demo\docs\.vuepress\config.js
@@ -56,6 +56,7 @@ module.exports = {
               { text: "Home", link: "/" },
               { text: "about", link: "/about" },
               { text: "about1", link: "/about1" },
+              { text: "quanxue", link: "/quanxue" },
             ],
           },
           {
@@ -102,5 +103,10 @@ module.exports = {
         clientSecret: "7e5f276f6bd0d59581ef93b007c32df0ada56c6e",
         autoCreateIssue: true,
       },
+      "@vuepress/back-to-top":true,
+      '@vuepress/google-analytics':
+      {
+        'ga': 'G-JYTLJD42XF' // UA-00000000-0
+      }
   }
 }
