@@ -4,4 +4,4 @@
 
 set -e
 
-echo 'docs' > demo/.vuepress/dist/CHAME
+echo 'docs.JSXiaoJun.top' > demo/.vuepress/dist/CHAME
