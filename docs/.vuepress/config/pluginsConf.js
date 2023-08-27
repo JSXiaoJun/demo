@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2023-08-24 13:34:48
- * @LastEditTime: 2023-08-24 13:35:05
+ * @LastEditTime: 2023-08-27 13:50:20
  * @LastEditors: BG1659
  * @Description: In User Settings Edit
  * @FilePath: \demo\docs\.vuepress\config\pluginsConf.js
@@ -36,4 +36,7 @@ module.exports = {
     "@vuepress/google-analytics": {
       ga: "G-JYTLJD42XF", // UA-00000000-0
     },
+    "vuepress-plugin-auto-sidebar":{
+      nav:true
+    }
   }
