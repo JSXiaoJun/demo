@@ -15,3 +15,5 @@ title: about
 ## 一级标题 2
 
 ## 一级标题 3
+
+追加 Travis CI 自动化部署

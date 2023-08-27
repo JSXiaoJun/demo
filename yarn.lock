@@ -2994,6 +2994,11 @@ cosmiconfig@^5.0.0:
     js-yaml "^3.13.1"
     parse-json "^4.0.0"
 
+countup.js@^2.7.1:
+  version "2.7.1"
+  resolved "https://registry.npmmirror.com/countup.js/-/countup.js-2.7.1.tgz#077d93bb08622abfe1ea4366792d12877a6d8a06"
+  integrity sha512-ZIYPFB1e4QSgs3HCVPrt0T6C7VHthQAH0ieIyNj6aGEwDUlj0Qq4He227/lqKmcEkp54kDqKQrQDh85XZ74Rzg==
+
 create-ecdh@^4.0.0:
   version "4.0.4"
   resolved "https://registry.npmmirror.com/create-ecdh/-/create-ecdh-4.0.4.tgz#d6e7f4bffa66736085a0762fd3a632684dabcc4e"
