@@ -25,3 +25,5 @@ vuepressDemo
 
 注意需要在本地安装 vuepress
 yarn add -D vuepress
+
+测试自动化
